@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroidLab5</string>
+    <string name="click">Клик</string>
+    <string name="default_text">Default Text</string>
+    <string name="activity_about">activity_about</string>
+    <string name="to_second">to_second</string>
+    <string name="to_first">to_first</string>
+    <string name="to_third">to_third</string>
+    <string name="about">about</string>
+</resources>
